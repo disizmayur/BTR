@@ -1,0 +1,29 @@
+state_choice={
+    "AK":'Alaska',
+    "AZ":'Arizona',
+    "AR":'Arkansas',
+    "CA":'California',
+    "CO":'Colorado',
+    "CT":'Connecticut',
+    "DE":'Delaware',
+   "DC":'District Of Columbia',
+    "FL":'Florida',
+    "GA":'Georgia',
+    "MP":'Madhya Pradesh',
+    "JP":'Jaipur' 
+}
+bedroom_chice={
+ "1":1,
+    "2":2,
+    "3":3,
+    "4":4,
+    "5":5
+}
+price_choice={
+    "30000":'$30000',
+    "100000":'$100,000',
+     "200000":'$200,000',
+     "300000":'$300,000',
+     "400000":'$400,000',
+     "500000":'$500,000'
+}
