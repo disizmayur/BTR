@@ -11,7 +11,7 @@ def home(request):
         'bedroom_choice':bedroom_chice,
         'price_choice':price_choice
     }
-    return render(request, 'pages/home.html',context)
+    return render(request, 'pages/index.html',context)
 
 def about(request):
     realtor=Realtor.objects.order_by('-hire_date')
